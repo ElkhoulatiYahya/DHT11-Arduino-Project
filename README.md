@@ -134,6 +134,6 @@ void loop() {
 
 Ce projet constitue une excellente introduction au travail avec des capteurs et des microcontrôleurs. En intégrant des capacités IoT, un stockage des données ou d'autres capteurs, il peut évoluer en un système de surveillance professionnel. Que ce soit pour un usage personnel ou comme prototype, il démontre la puissance et la flexibilité d'Arduino dans des applications réelles.
 
-**Lien vers le Dépôt GitHub :** [Votre Lien Ici]
+**Lien vers le Dépôt GitHub :** [https://github.com/ElkhoulatiYahya/DHT11-Arduino-Project]
 
 
