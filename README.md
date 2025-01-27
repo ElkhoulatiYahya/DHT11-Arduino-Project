@@ -1,4 +1,4 @@
-# MAfficher la température et l’humidité mesurées par le capteur DHT11 connecté à Arduino sur l’afficheur LCD I2C
+# Afficher la température et l’humidité mesurées par le capteur DHT11 connecté à Arduino sur l’afficheur LCD I2C
 
 ## Auteur
 Elkhoulati Yahya
